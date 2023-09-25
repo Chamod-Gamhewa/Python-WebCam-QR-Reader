@@ -1,0 +1,1 @@
+# Python WebCam QR Reader
