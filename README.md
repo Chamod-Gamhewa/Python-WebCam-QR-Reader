@@ -1,6 +1,6 @@
 # Python WebCam QR Reader
 ## Clone repository
-> https://github.com/Chamod-Gamhewa/Python-WebCam-QR-Reader
+> https://github.com/Chamod-Gamhewa/Python-WebCam-QR-Reader  
 > cd Python-WebCam-QR-Reader
 ## Install required libraries
 > pip install -r requirements.txt
